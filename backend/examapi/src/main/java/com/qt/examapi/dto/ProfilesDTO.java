@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+// A data transfer object for transferring the profile data
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
